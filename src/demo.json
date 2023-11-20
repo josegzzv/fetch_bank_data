@@ -1,0 +1,440 @@
+{
+    "data": [
+        {
+            "src_line_nbr": "1",
+            "country": "Afghanistan",
+            "country_currency_desc": "Afghanistan-Afghani",
+            "currency": "Afghani",
+            "exchange_rate": "77.86",
+            "record_date": "2023-09-30"
+        },
+        {
+            "src_line_nbr": "2",
+            "country": "Albania",
+            "country_currency_desc": "Albania-Lek",
+            "currency": "Lek",
+            "exchange_rate": "100.05",
+            "record_date": "2023-09-30"
+        },
+        {
+            "src_line_nbr": "3",
+            "country": "Algeria",
+            "country_currency_desc": "Algeria-Dinar",
+            "currency": "Dinar",
+            "exchange_rate": "137.067",
+            "record_date": "2023-09-30"
+        },
+        {
+            "src_line_nbr": "4",
+            "country": "Angola",
+            "country_currency_desc": "Angola-Kwanza",
+            "currency": "Kwanza",
+            "exchange_rate": "830.0",
+            "record_date": "2023-09-30"
+        },
+        {
+            "src_line_nbr": "5",
+            "country": "Antigua & Barbuda",
+            "country_currency_desc": "Antigua & Barbuda-E. Caribbean Dollar",
+            "currency": "E. Caribbean Dollar",
+            "exchange_rate": "2.7",
+            "record_date": "2023-09-30"
+        },
+        {
+            "src_line_nbr": "6",
+            "country": "Argentina",
+            "country_currency_desc": "Argentina-Peso",
+            "currency": "Peso",
+            "exchange_rate": "365.5",
+            "record_date": "2023-09-30"
+        },
+        {
+            "src_line_nbr": "7",
+            "country": "Armenia",
+            "country_currency_desc": "Armenia-Dram",
+            "currency": "Dram",
+            "exchange_rate": "390.0",
+            "record_date": "2023-09-30"
+        },
+        {
+            "src_line_nbr": "8",
+            "country": "Australia",
+            "country_currency_desc": "Australia-Dollar",
+            "currency": "Dollar",
+            "exchange_rate": "1.542",
+            "record_date": "2023-09-30"
+        },
+        {
+            "src_line_nbr": "9",
+            "country": "Azerbaijan",
+            "country_currency_desc": "Azerbaijan-Manat",
+            "currency": "Manat",
+            "exchange_rate": "1.7",
+            "record_date": "2023-09-30"
+        },
+        {
+            "src_line_nbr": "10",
+            "country": "Bahamas",
+            "country_currency_desc": "Bahamas-Dollar",
+            "currency": "Dollar",
+            "exchange_rate": "1.0",
+            "record_date": "2023-09-30"
+        },
+        {
+            "src_line_nbr": "11",
+            "country": "Bahrain",
+            "country_currency_desc": "Bahrain-Dinar",
+            "currency": "Dinar",
+            "exchange_rate": "0.377",
+            "record_date": "2023-09-30"
+        },
+        {
+            "src_line_nbr": "12",
+            "country": "Bangladesh",
+            "country_currency_desc": "Bangladesh-Taka",
+            "currency": "Taka",
+            "exchange_rate": "110.0",
+            "record_date": "2023-09-30"
+        },
+        {
+            "src_line_nbr": "13",
+            "country": "Barbados",
+            "country_currency_desc": "Barbados-Dollar",
+            "currency": "Dollar",
+            "exchange_rate": "2.02",
+            "record_date": "2023-09-30"
+        },
+        {
+            "src_line_nbr": "14",
+            "country": "Belarus",
+            "country_currency_desc": "Belarus-New Ruble",
+            "currency": "New Ruble",
+            "exchange_rate": "3.264",
+            "record_date": "2023-09-30"
+        },
+        {
+            "src_line_nbr": "15",
+            "country": "Belize",
+            "country_currency_desc": "Belize-Dollar",
+            "currency": "Dollar",
+            "exchange_rate": "2.0",
+            "record_date": "2023-09-30"
+        },
+        {
+            "src_line_nbr": "16",
+            "country": "Benin",
+            "country_currency_desc": "Benin-CFA Franc",
+            "currency": "CFA Franc",
+            "exchange_rate": "615.0",
+            "record_date": "2023-09-30"
+        },
+        {
+            "src_line_nbr": "17",
+            "country": "Bermuda",
+            "country_currency_desc": "Bermuda-Dollar",
+            "currency": "Dollar",
+            "exchange_rate": "1.0",
+            "record_date": "2023-09-30"
+        },
+        {
+            "src_line_nbr": "18",
+            "country": "Bolivia",
+            "country_currency_desc": "Bolivia-Boliviano",
+            "currency": "Boliviano",
+            "exchange_rate": "6.86",
+            "record_date": "2023-09-30"
+        },
+        {
+            "src_line_nbr": "19",
+            "country": "Bosnia",
+            "country_currency_desc": "Bosnia-Marka",
+            "currency": "Marka",
+            "exchange_rate": "1.846",
+            "record_date": "2023-09-30"
+        },
+        {
+            "src_line_nbr": "20",
+            "country": "Botswana",
+            "country_currency_desc": "Botswana-Pula",
+            "currency": "Pula",
+            "exchange_rate": "13.643",
+            "record_date": "2023-09-30"
+        },
+        {
+            "src_line_nbr": "21",
+            "country": "Brazil",
+            "country_currency_desc": "Brazil-Real",
+            "currency": "Real",
+            "exchange_rate": "5.033",
+            "record_date": "2023-09-30"
+        },
+        {
+            "src_line_nbr": "22",
+            "country": "Brunei",
+            "country_currency_desc": "Brunei-Dollar",
+            "currency": "Dollar",
+            "exchange_rate": "1.363",
+            "record_date": "2023-09-30"
+        },
+        {
+            "src_line_nbr": "23",
+            "country": "Bulgaria",
+            "country_currency_desc": "Bulgaria-Lev New",
+            "currency": "Lev New",
+            "exchange_rate": "1.846",
+            "record_date": "2023-09-30"
+        },
+        {
+            "src_line_nbr": "24",
+            "country": "Burkina Faso",
+            "country_currency_desc": "Burkina Faso-CFA Franc",
+            "currency": "CFA Franc",
+            "exchange_rate": "615.0",
+            "record_date": "2023-09-30"
+        },
+        {
+            "src_line_nbr": "25",
+            "country": "Burundi",
+            "country_currency_desc": "Burundi-Franc",
+            "currency": "Franc",
+            "exchange_rate": "2841.65",
+            "record_date": "2023-09-30"
+        },
+        {
+            "src_line_nbr": "26",
+            "country": "Cambodia",
+            "country_currency_desc": "Cambodia-Riel",
+            "currency": "Riel",
+            "exchange_rate": "4051.0",
+            "record_date": "2023-09-30"
+        },
+        {
+            "src_line_nbr": "27",
+            "country": "Cameroon",
+            "country_currency_desc": "Cameroon-CFA Franc",
+            "currency": "CFA Franc",
+            "exchange_rate": "618.94",
+            "record_date": "2023-09-30"
+        },
+        {
+            "src_line_nbr": "28",
+            "country": "Canada",
+            "country_currency_desc": "Canada-Dollar",
+            "currency": "Dollar",
+            "exchange_rate": "1.343",
+            "record_date": "2023-09-30"
+        },
+        {
+            "src_line_nbr": "29",
+            "country": "Cape Verde",
+            "country_currency_desc": "Cape Verde-Escudo",
+            "currency": "Escudo",
+            "exchange_rate": "104.03",
+            "record_date": "2023-09-30"
+        },
+        {
+            "src_line_nbr": "30",
+            "country": "Cayman Islands",
+            "country_currency_desc": "Cayman Islands-Dollar",
+            "currency": "Dollar",
+            "exchange_rate": "0.82",
+            "record_date": "2023-09-30"
+        },
+        {
+            "src_line_nbr": "31",
+            "country": "Central African Rep.",
+            "country_currency_desc": "Central African Rep.-CFA Franc",
+            "currency": "CFA Franc",
+            "exchange_rate": "618.94",
+            "record_date": "2023-09-30"
+        },
+        {
+            "src_line_nbr": "32",
+            "country": "Chad",
+            "country_currency_desc": "Chad-CFA Franc",
+            "currency": "CFA Franc",
+            "exchange_rate": "618.94",
+            "record_date": "2023-09-30"
+        },
+        {
+            "src_line_nbr": "33",
+            "country": "Chile",
+            "country_currency_desc": "Chile-Peso",
+            "currency": "Peso",
+            "exchange_rate": "902.65",
+            "record_date": "2023-09-30"
+        },
+        {
+            "src_line_nbr": "34",
+            "country": "China",
+            "country_currency_desc": "China-Renminbi",
+            "currency": "Renminbi",
+            "exchange_rate": "7.301",
+            "record_date": "2023-09-30"
+        },
+        {
+            "src_line_nbr": "35",
+            "country": "Colombia",
+            "country_currency_desc": "Colombia-Peso",
+            "currency": "Peso",
+            "exchange_rate": "4074.2",
+            "record_date": "2023-09-30"
+        },
+        {
+            "src_line_nbr": "36",
+            "country": "Comoros",
+            "country_currency_desc": "Comoros-Franc",
+            "currency": "Franc",
+            "exchange_rate": "467.04",
+            "record_date": "2023-09-30"
+        },
+        {
+            "src_line_nbr": "37",
+            "country": "Congo",
+            "country_currency_desc": "Congo-CFA Franc",
+            "currency": "CFA Franc",
+            "exchange_rate": "618.94",
+            "record_date": "2023-09-30"
+        },
+        {
+            "src_line_nbr": "38",
+            "country": "Costa Rica",
+            "country_currency_desc": "Costa Rica-Colon",
+            "currency": "Colon",
+            "exchange_rate": "528.75",
+            "record_date": "2023-09-30"
+        },
+        {
+            "src_line_nbr": "39",
+            "country": "Cote D'ivoire",
+            "country_currency_desc": "Cote D'ivoire-CFA Franc",
+            "currency": "CFA Franc",
+            "exchange_rate": "615.0",
+            "record_date": "2023-09-30"
+        },
+        {
+            "src_line_nbr": "40",
+            "country": "Cuba",
+            "country_currency_desc": "Cuba-Chavito",
+            "currency": "Chavito",
+            "exchange_rate": "1.0",
+            "record_date": "2023-09-30"
+        },
+        {
+            "src_line_nbr": "41",
+            "country": "Cuba",
+            "country_currency_desc": "Cuba-Peso",
+            "currency": "Peso",
+            "exchange_rate": "24.0",
+            "record_date": "2023-09-30"
+        },
+        {
+            "src_line_nbr": "42",
+            "country": "Czech Republic",
+            "country_currency_desc": "Czech Republic-Koruna",
+            "currency": "Koruna",
+            "exchange_rate": "22.389",
+            "record_date": "2023-09-30"
+        },
+        {
+            "src_line_nbr": "43",
+            "country": "Dem. Rep. of Congo",
+            "country_currency_desc": "Dem. Rep. of Congo-Congolese Franc",
+            "currency": "Congolese Franc",
+            "exchange_rate": "2477.0",
+            "record_date": "2023-09-30"
+        },
+        {
+            "src_line_nbr": "44",
+            "country": "Denmark",
+            "country_currency_desc": "Denmark-Krone",
+            "currency": "Krone",
+            "exchange_rate": "7.038",
+            "record_date": "2023-09-30"
+        },
+        {
+            "src_line_nbr": "45",
+            "country": "Djibouti",
+            "country_currency_desc": "Djibouti-Franc",
+            "currency": "Franc",
+            "exchange_rate": "177.0",
+            "record_date": "2023-09-30"
+        },
+        {
+            "src_line_nbr": "46",
+            "country": "Dominican Republic",
+            "country_currency_desc": "Dominican Republic-Peso",
+            "currency": "Peso",
+            "exchange_rate": "56.58",
+            "record_date": "2023-09-30"
+        },
+        {
+            "src_line_nbr": "47",
+            "country": "Ecuador",
+            "country_currency_desc": "Ecuador-Dolares",
+            "currency": "Dolares",
+            "exchange_rate": "1.0",
+            "record_date": "2023-09-30"
+        },
+        {
+            "src_line_nbr": "48",
+            "country": "Egypt",
+            "country_currency_desc": "Egypt-Pound",
+            "currency": "Pound",
+            "exchange_rate": "30.85",
+            "record_date": "2023-09-30"
+        },
+        {
+            "src_line_nbr": "49",
+            "country": "El Salvador",
+            "country_currency_desc": "El Salvador-Dollar",
+            "currency": "Dollar",
+            "exchange_rate": "1.0",
+            "record_date": "2023-09-30"
+        },
+        {
+            "src_line_nbr": "50",
+            "country": "Equatorial Guinea",
+            "country_currency_desc": "Equatorial Guinea-CFA Franc",
+            "currency": "CFA Franc",
+            "exchange_rate": "618.94",
+            "record_date": "2023-09-30"
+        }
+    ],
+    "meta": {
+        "count": 50,
+        "labels": {
+            "src_line_nbr": "Source Line Number",
+            "country": "Country",
+            "country_currency_desc": "Country - Currency Description",
+            "currency": "Currency",
+            "exchange_rate": "Exchange Rate",
+            "record_date": "Record Date"
+        },
+        "dataTypes": {
+            "src_line_nbr": "INTEGER",
+            "country": "STRING",
+            "country_currency_desc": "STRING",
+            "currency": "STRING",
+            "exchange_rate": "NUMBER",
+            "record_date": "DATE"
+        },
+        "dataFormats": {
+            "src_line_nbr": "10",
+            "country": "String",
+            "country_currency_desc": "String",
+            "currency": "String",
+            "exchange_rate": "10.2",
+            "record_date": "YYYY-MM-DD"
+        },
+        "total-count": 171,
+        "total-pages": 4
+    },
+    "links": {
+        "self": "&page%5Bnumber%5D=1&page%5Bsize%5D=50",
+        "first": "&page%5Bnumber%5D=1&page%5Bsize%5D=50",
+        "prev": null,
+        "next": "&page%5Bnumber%5D=2&page%5Bsize%5D=50",
+        "last": "&page%5Bnumber%5D=4&page%5Bsize%5D=50"
+    }
+}
